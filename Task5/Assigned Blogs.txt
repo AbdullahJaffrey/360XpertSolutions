@@ -1,0 +1,18 @@
+Intro To Kafka: https://www.notion.so/What-is-Kafka-898d5fc40acf4e09a9c4b893666723d7?pvs=4
+
+Seven Techniques of Kafka: https://www.notion.so/Seven-Techniques-of-Kafka-10ae253d9bd0806c8c7cc556c76dd3b1?pvs=4
+
+Introduction To DBT: https://www.notion.so/Introduction-To-DBT-111e253d9bd0803a9a50c3c0af6e2056?pvs=4
+
+CDC and Data Streaming Replication In Mysql, Postgresql, Mongo-DB and Cassandra-DB: https://www.notion.so/CDC-and-Data-Streaming-Replication-In-Mysql-Postgresql-Mongo-DB-and-Cassandra-DB-114e253d9bd080c88c0bd1cc6b2d1d09?pvs=4
+
+Books to Explore: https://github.com/varunkashyapks/Books/blob/master/Data%20Science%20from%20Scratch.pdf 
+
+Engineering Blogs: https://www.notion.so/Engineering-Blogs-120e253d9bd080c19b30fcadddcc0b26?pvs=4
+
+Basics of Machine Learning: https://www.notion.so/Basics-of-Machine-Learning-125e253d9bd08068ae2cdeae7817f92d?pvs=4
+
+Explore EDA, Models of Supervised and Unsupervised Learning: https://www.notion.so/Explore-EDA-Models-of-Supervised-and-Unsupervised-Learning-126e253d9bd08057be4fcfbbf3faa70e?pvs=4
+
+Gaussian vs Multinomial Classifier: https://www.notion.so/Gaussian-vs-Multinomial-Classifier-128e253d9bd080b6a47ded55296fbe11?pvs=4
+
