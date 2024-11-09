@@ -1,0 +1,101 @@
+Age(Y),BMI(kg/m2),BMIStatus,Gender,HbA1c(%),HbA1cStatus,Alzheimer's,Smoking,Cholestrol(mg/dL),HDLCholestrol(mg/dL),LDLCholestrol(mg/dL),CholestrolStatus,LDLCholestrolStatus,HDLCholestrolStatus,RandomGlucose(mg/dL),SugarBloodLevel,DiabetesType,InsulinUsage,Hypertension,PatientId
+51,10.541484575217693,Under-weight,1,1.2252442736596714,Non-diabetes,0,0,225,48,79,At-Risk,Heart-Healthy,Dangerous,121.08978052372748,Impaired-Tolerance,None,0,1,0
+59,34.70372981424694,Moderate-Obese,1,12.430671890969558,Diabetes,0,1,188,71,185,Heart-Healthy,Dangerous,Heart-Healthy,298.8989273316864,Diabetes,Type 1,1,0,1
+94,19.26461248770665,Normal,0,4.51561988421018,Non-diabetes,0,0,294,66,218,Dangerous,Dangerous,Heart-Healthy,330.6106144496521,Diabetes,Type 1,1,1,2
+9,33.088040690069974,Moderate-Obese,0,14.480019422456813,Diabetes,1,0,274,79,94,Dangerous,Heart-Healthy,Heart-Healthy,138.57175212225167,Impaired-Tolerance,Type 1,1,1,3
+58,2.601598374723096,Under-weight,1,0.5521462288513568,Non-diabetes,0,0,199,86,63,Heart-Healthy,Heart-Healthy,Heart-Healthy,282.75089035672477,Diabetes,Type 1,1,0,4
+16,18.73923425546953,Normal,1,9.021240250036143,Diabetes,0,0,251,47,100,Dangerous,At-Risk,Dangerous,356.0451676462272,Diabetes,Type 1,1,1,5
+44,50.36675025502744,Morbidly-Obese,1,13.48191498581208,Diabetes,0,1,264,66,175,Dangerous,Dangerous,Heart-Healthy,296.65484613886656,Diabetes,Type 1,1,1,6
+66,61.40595535595957,Morbidly-Obese,0,4.003664413390572,Non-diabetes,0,1,260,41,58,Dangerous,Heart-Healthy,At-Risk,291.9808010785305,Diabetes,Type 1,1,1,7
+92,18.235194761355363,Under-weight,0,11.91044376669916,Diabetes,0,1,241,96,120,Dangerous,At-Risk,Heart-Healthy,327.7968644324462,Diabetes,Type 1,1,1,8
+74,51.85319954049758,Morbidly-Obese,0,2.023060060313516,Non-diabetes,0,0,155,80,245,Heart-Healthy,Dangerous,Heart-Healthy,137.46545941579853,Impaired-Tolerance,None,0,0,9
+8,53.14882118911263,Morbidly-Obese,0,13.114873548654554,Diabetes,0,0,194,69,224,Heart-Healthy,Dangerous,Heart-Healthy,315.64798234297024,Diabetes,Type 1,1,0,10
+88,13.507832170011453,Under-weight,1,12.894354831225142,Diabetes,0,1,166,50,233,Heart-Healthy,Dangerous,At-Risk,356.0232750659217,Diabetes,Type 1,1,0,11
+37,51.295060023773395,Morbidly-Obese,0,2.5738524766045634,Non-diabetes,0,1,167,69,167,Heart-Healthy,Dangerous,Heart-Healthy,152.16594055676794,Pre-Diabetes,None,0,0,12
+28,39.752075639631926,Severely-Obese,1,13.285229459557035,Diabetes,1,0,202,75,130,At-Risk,At-Risk,Heart-Healthy,155.05512014041008,Pre-Diabetes,Type 1,1,1,13
+45,49.71420364701912,Morbidly-Obese,0,12.323490613490302,Diabetes,0,1,189,71,115,Heart-Healthy,At-Risk,Heart-Healthy,146.03395937918725,Pre-Diabetes,Type 1,1,0,14
+36,25.052588837274612,Over-weight,1,8.110711454420741,Diabetes,0,1,190,71,121,Heart-Healthy,At-Risk,Heart-Healthy,393.2890772938388,Diabetes,Type 1,1,0,15
+48,64.32471874007618,Morbidly-Obese,0,9.265571051274444,Diabetes,1,0,164,79,236,Heart-Healthy,Dangerous,Heart-Healthy,142.79065692459324,Pre-Diabetes,Type 2,0,0,16
+36,54.10291339017122,Morbidly-Obese,0,7.4156769776065925,Diabetes,0,0,196,46,82,Heart-Healthy,Heart-Healthy,At-Risk,261.66041077388786,Diabetes,Type 1,1,0,17
+7,54.68160158676269,Morbidly-Obese,0,9.780337477400911,Diabetes,0,0,168,84,84,Heart-Healthy,Heart-Healthy,Heart-Healthy,395.9437102999109,Diabetes,Type 1,1,0,18
+94,38.91728902723526,Severely-Obese,1,3.979419545150132,Non-diabetes,1,0,159,85,109,Heart-Healthy,At-Risk,Heart-Healthy,107.91520046929759,Impaired-Tolerance,None,0,0,19
+84,7.460442942909441,Under-weight,1,2.926366636952192,Non-diabetes,0,0,210,65,138,At-Risk,At-Risk,Heart-Healthy,279.94497214293483,Diabetes,Type 1,1,1,20
+93,65.5871998740817,Morbidly-Obese,0,10.868538180906407,Diabetes,0,1,265,67,77,Dangerous,Heart-Healthy,Heart-Healthy,234.15974789715537,Diabetes,Type 1,1,1,21
+93,35.31454855746818,Severely-Obese,0,1.5252447997840124,Non-diabetes,0,1,249,95,150,Dangerous,At-Risk,Heart-Healthy,165.1957638144322,Pre-Diabetes,None,0,1,22
+32,52.044693776596745,Morbidly-Obese,0,0.3445622840338758,Non-diabetes,0,0,167,46,233,Heart-Healthy,Dangerous,At-Risk,202.24885577686842,Diabetes,Type 1,1,0,23
+75,24.197507859151823,Normal,0,12.409496570688667,Diabetes,1,1,240,86,63,Dangerous,Heart-Healthy,Heart-Healthy,380.32342993959895,Diabetes,Type 1,1,1,24
+24,9.160987037399632,Under-weight,1,2.766970073056209,Non-diabetes,0,1,267,52,234,Dangerous,Dangerous,At-Risk,299.89257452207556,Diabetes,Type 1,1,1,25
+57,66.32221736383015,Morbidly-Obese,0,10.897577215164764,Diabetes,0,1,203,64,206,At-Risk,Dangerous,Heart-Healthy,391.19936927870197,Diabetes,Type 1,1,1,26
+19,22.80505079143896,Normal,1,0.6495889116602743,Non-diabetes,0,0,294,87,147,Dangerous,At-Risk,Heart-Healthy,217.85446217840413,Diabetes,Type 1,1,1,27
+51,31.428294137136334,Moderate-Obese,0,1.225059404585389,Non-diabetes,0,0,220,64,170,At-Risk,Dangerous,Heart-Healthy,179.8448228068541,Pre-Diabetes,None,0,1,28
+87,22.34259701296,Normal,1,0.1406145529433772,Non-diabetes,0,0,269,61,145,Dangerous,At-Risk,Heart-Healthy,188.33200655916994,Pre-Diabetes,None,0,1,29
+20,14.02369395060112,Under-weight,0,12.595393438740338,Diabetes,0,0,274,65,82,Dangerous,Heart-Healthy,Heart-Healthy,239.58613377306648,Diabetes,Type 1,1,1,30
+11,18.728949707362275,Normal,0,3.279826758784389,Non-diabetes,0,1,245,84,74,Dangerous,Heart-Healthy,Heart-Healthy,145.638095862048,Pre-Diabetes,None,0,1,31
+17,53.43271720147565,Morbidly-Obese,0,7.69973917384765,Diabetes,0,1,281,77,215,Dangerous,Dangerous,Heart-Healthy,281.8587103665883,Diabetes,Type 1,1,1,32
+87,25.73777485956898,Over-weight,1,3.9794177195205416,Non-diabetes,0,1,215,77,189,At-Risk,Dangerous,Heart-Healthy,379.9644015590134,Diabetes,Type 1,1,1,33
+87,50.97594471883328,Morbidly-Obese,0,8.237001325522886,Diabetes,0,1,193,58,237,Heart-Healthy,Dangerous,At-Risk,170.51564775662945,Pre-Diabetes,Type 2,0,0,34
+22,17.522942096372056,Under-weight,1,11.595592123685325,Diabetes,0,0,161,50,62,Heart-Healthy,Heart-Healthy,At-Risk,267.9561129103863,Diabetes,Type 1,1,0,35
+54,7.762900400330017,Under-weight,1,3.3643357340354734,Non-diabetes,0,0,217,49,154,At-Risk,At-Risk,Dangerous,123.7057496909508,Impaired-Tolerance,None,0,1,36
+40,45.9204388501177,Morbidly-Obese,1,0.20525978185703675,Non-diabetes,0,0,222,54,104,At-Risk,At-Risk,At-Risk,145.05485374349024,Pre-Diabetes,None,0,1,37
+24,40.93387955676094,Morbidly-Obese,0,11.183496290543617,Diabetes,0,1,163,50,202,Heart-Healthy,Dangerous,At-Risk,128.03280178461168,Impaired-Tolerance,Type 1,1,0,38
+52,5.549751757656368,Under-weight,0,3.8144924674395257,Non-diabetes,0,1,228,66,237,At-Risk,Dangerous,Heart-Healthy,186.92622743179845,Pre-Diabetes,None,0,1,39
+93,65.44997050100821,Morbidly-Obese,0,10.533707867929987,Diabetes,0,1,299,45,129,Dangerous,At-Risk,At-Risk,71.84448879821693,Fasting,Type 1,1,1,40
+28,20.209197133334875,Normal,1,12.298435784681487,Diabetes,0,0,206,99,52,At-Risk,Heart-Healthy,Heart-Healthy,109.01181785891899,Impaired-Tolerance,Type 1,1,1,41
+59,47.312689327007064,Morbidly-Obese,0,7.374595698075818,Diabetes,0,0,256,45,230,Dangerous,Dangerous,At-Risk,224.573879623441,Diabetes,Type 1,1,1,42
+77,35.43990912319473,Severely-Obese,0,3.7103249405291,Non-diabetes,0,1,210,45,179,At-Risk,Dangerous,At-Risk,120.7209295052125,Impaired-Tolerance,None,0,1,43
+26,7.637739962356257,Under-weight,0,10.159049631948756,Diabetes,0,0,233,81,150,At-Risk,At-Risk,Heart-Healthy,385.17184847236217,Diabetes,Type 1,1,1,44
+94,49.98014384661075,Morbidly-Obese,1,10.324757186960182,Diabetes,0,1,246,89,246,Dangerous,Dangerous,Heart-Healthy,339.7260214693361,Diabetes,Type 1,1,1,45
+6,61.82161041280355,Morbidly-Obese,0,5.15990984414721,Non-diabetes,0,1,277,42,226,Dangerous,Dangerous,At-Risk,368.5751822830553,Diabetes,Type 1,1,1,46
+62,4.9783552166487794,Under-weight,0,13.479075659250949,Diabetes,0,0,204,99,121,At-Risk,At-Risk,Heart-Healthy,280.731434472876,Diabetes,Type 1,1,1,47
+23,69.38491257268765,Morbidly-Obese,1,1.921323210886956,Non-diabetes,0,1,250,43,57,Dangerous,Heart-Healthy,Dangerous,294.47303090176797,Diabetes,Type 1,1,1,48
+93,12.627690595015507,Under-weight,0,0.5902684864571534,Non-diabetes,0,0,275,88,196,Dangerous,Dangerous,Heart-Healthy,314.5168508406965,Diabetes,Type 1,1,1,49
+24,26.146153148856214,Over-weight,1,6.8858884171163615,Diabetes,0,1,187,75,114,Heart-Healthy,At-Risk,Heart-Healthy,300.39164509825144,Diabetes,Type 1,1,0,50
+12,10.839097752877331,Under-weight,1,7.556727931202115,Diabetes,0,1,225,41,175,At-Risk,Dangerous,Dangerous,81.37239927640093,Fasting,Type 2,0,1,51
+39,59.4043787444869,Morbidly-Obese,1,7.849559518476675,Diabetes,0,0,287,55,196,Dangerous,Dangerous,At-Risk,398.13370595177315,Diabetes,Type 1,1,1,52
+26,5.2158622732019255,Under-weight,0,8.189110503327598,Diabetes,0,0,257,63,87,Dangerous,Heart-Healthy,Heart-Healthy,259.74605238508906,Diabetes,Type 1,1,1,53
+43,39.946769774882206,Morbidly-Obese,1,9.407975854338037,Diabetes,0,0,222,95,190,At-Risk,Dangerous,Heart-Healthy,127.65328508550945,Impaired-Tolerance,Type 2,0,1,54
+82,31.78491698035349,Moderate-Obese,0,13.078430271605582,Diabetes,0,1,226,97,144,At-Risk,At-Risk,Heart-Healthy,269.92946851261115,Diabetes,Type 1,1,1,55
+24,44.50739680203718,Morbidly-Obese,0,9.738903551852193,Diabetes,0,1,294,87,101,Dangerous,At-Risk,Heart-Healthy,120.68210289366972,Impaired-Tolerance,Type 2,0,1,56
+26,47.265210379102804,Morbidly-Obese,1,5.121913389208991,Non-diabetes,0,1,166,58,151,Heart-Healthy,At-Risk,At-Risk,274.7216807573325,Diabetes,Type 1,1,0,57
+17,50.252044037947144,Morbidly-Obese,0,1.5718026265946223,Non-diabetes,0,0,241,89,81,Dangerous,Heart-Healthy,Heart-Healthy,158.471880028006,Pre-Diabetes,None,0,1,58
+50,0.04130860734619435,Under-weight,1,2.332526401502955,Non-diabetes,0,1,203,61,177,At-Risk,Dangerous,Heart-Healthy,99.26460632939907,Fasting,None,0,1,59
+29,22.157109669481052,Normal,0,8.368416210086707,Diabetes,0,0,289,98,110,Dangerous,At-Risk,Heart-Healthy,193.66490795010088,Pre-Diabetes,Type 2,0,1,60
+31,48.331519819353815,Morbidly-Obese,0,11.01266512729709,Diabetes,0,0,189,45,179,Heart-Healthy,Dangerous,At-Risk,229.87750761589942,Diabetes,Type 1,1,0,61
+99,44.4660634348472,Morbidly-Obese,0,6.9022597475756475,Diabetes,1,0,255,94,166,Dangerous,Dangerous,Heart-Healthy,321.10945245839,Diabetes,Type 1,1,1,62
+32,54.489282626606055,Morbidly-Obese,1,0.8954987761000832,Non-diabetes,0,1,245,71,103,Dangerous,At-Risk,Heart-Healthy,257.0112619897596,Diabetes,Type 1,1,1,63
+77,10.820640587952353,Under-weight,0,13.36099621304418,Diabetes,1,0,257,77,80,Dangerous,Heart-Healthy,Heart-Healthy,185.25123981941817,Pre-Diabetes,Type 1,1,1,64
+84,2.580203000841573,Under-weight,0,0.22814474646308036,Non-diabetes,0,0,279,42,232,Dangerous,Dangerous,At-Risk,219.53874034064998,Diabetes,Type 1,1,1,65
+50,21.75130182299089,Normal,0,9.223333348788767,Diabetes,0,0,160,92,86,Heart-Healthy,Heart-Healthy,Heart-Healthy,94.02126741776522,Fasting,Type 2,0,0,66
+61,37.58168649712255,Severely-Obese,1,8.651132791413438,Diabetes,0,1,231,85,167,At-Risk,Dangerous,Heart-Healthy,104.19745671761589,Impaired-Tolerance,Type 2,0,1,67
+70,37.296695651063175,Severely-Obese,0,0.23357461023845172,Non-diabetes,0,0,233,80,119,At-Risk,At-Risk,Heart-Healthy,173.5480568723915,Pre-Diabetes,None,0,1,68
+40,22.070438360209437,Normal,0,7.575974563612748,Diabetes,0,1,286,94,212,Dangerous,Dangerous,Heart-Healthy,155.60042660477842,Pre-Diabetes,Type 2,0,1,69
+12,54.738493401300154,Morbidly-Obese,0,12.727906919900407,Diabetes,0,1,269,91,236,Dangerous,Dangerous,Heart-Healthy,176.18687795792238,Pre-Diabetes,Type 1,1,1,70
+33,58.62781775369177,Morbidly-Obese,1,10.76384942637306,Diabetes,0,0,157,60,171,Heart-Healthy,Dangerous,Heart-Healthy,133.13808655618558,Impaired-Tolerance,Type 1,1,0,71
+62,34.063622061559435,Moderate-Obese,0,5.307982925843561,Non-diabetes,0,1,205,54,215,At-Risk,Dangerous,At-Risk,117.06239474241599,Impaired-Tolerance,None,0,1,72
+3,53.31706062847612,Morbidly-Obese,0,5.264452884276142,Non-diabetes,0,0,212,73,82,At-Risk,Heart-Healthy,Heart-Healthy,333.7934722889573,Diabetes,Type 1,1,1,73
+4,21.108978455624573,Normal,1,12.188775988969873,Diabetes,0,1,187,62,123,Heart-Healthy,At-Risk,Heart-Healthy,188.28612287913649,Pre-Diabetes,Type 1,1,0,74
+76,2.3418158584781565,Under-weight,0,2.853660998477335,Non-diabetes,0,0,162,91,69,Heart-Healthy,Heart-Healthy,Heart-Healthy,214.16013540732567,Diabetes,Type 1,1,0,75
+95,69.44221985897639,Morbidly-Obese,1,4.6977554514998285,Non-diabetes,0,1,229,88,104,At-Risk,At-Risk,Heart-Healthy,391.97380548810554,Diabetes,Type 1,1,1,76
+34,59.82074098715304,Morbidly-Obese,0,11.922997515924756,Diabetes,0,0,209,88,50,At-Risk,Heart-Healthy,Heart-Healthy,90.16976892019824,Fasting,Type 1,1,1,77
+73,9.832192466404251,Under-weight,1,0.3131158723086619,Non-diabetes,0,0,234,59,107,At-Risk,At-Risk,At-Risk,251.41209620867144,Diabetes,Type 1,1,1,78
+6,38.35924314435867,Severely-Obese,1,1.5104644175251236,Non-diabetes,1,1,294,78,139,Dangerous,At-Risk,Heart-Healthy,188.61893893849754,Pre-Diabetes,None,0,1,79
+62,1.748961915292948,Under-weight,0,1.6789334471917539,Non-diabetes,0,1,208,53,187,At-Risk,Dangerous,At-Risk,260.21991755811666,Diabetes,Type 1,1,1,80
+12,54.53161923621918,Morbidly-Obese,0,8.191180240574024,Diabetes,0,0,212,61,89,At-Risk,Heart-Healthy,Heart-Healthy,269.59150365786553,Diabetes,Type 1,1,1,81
+15,50.093360385500496,Morbidly-Obese,0,3.2641941234555705,Non-diabetes,0,1,183,70,106,Heart-Healthy,At-Risk,Heart-Healthy,73.84584120040124,Fasting,None,0,0,82
+99,28.83316030059158,Over-weight,0,13.310534393024525,Diabetes,0,1,272,56,199,Dangerous,Dangerous,At-Risk,255.79947819164735,Diabetes,Type 1,1,1,83
+97,11.848056939173548,Under-weight,0,13.484721058489603,Diabetes,0,1,212,59,214,At-Risk,Dangerous,At-Risk,254.5667867918158,Diabetes,Type 1,1,1,84
+1,10.099743610827206,Under-weight,0,10.012064980789829,Diabetes,0,1,252,43,79,Dangerous,Heart-Healthy,At-Risk,275.36754996002026,Diabetes,Type 1,1,1,85
+48,27.561892000638842,Over-weight,1,12.792148355062556,Diabetes,0,1,221,90,105,At-Risk,At-Risk,Heart-Healthy,309.35084402938566,Diabetes,Type 1,1,1,86
+68,1.173079031908042,Under-weight,1,8.341585102124466,Diabetes,1,1,167,74,102,Heart-Healthy,At-Risk,Heart-Healthy,244.79221492308008,Diabetes,Type 1,1,0,87
+58,38.43699883089594,Severely-Obese,1,1.277115740519383,Non-diabetes,0,0,267,62,220,Dangerous,Dangerous,Heart-Healthy,380.159514309801,Diabetes,Type 1,1,1,88
+37,13.427731103828698,Under-weight,0,14.04051954290464,Diabetes,1,0,253,44,194,Dangerous,Dangerous,At-Risk,291.81190799580804,Diabetes,Type 1,1,1,89
+19,69.68457716575476,Morbidly-Obese,0,14.097676987519838,Diabetes,0,0,293,91,104,Dangerous,At-Risk,Heart-Healthy,104.71666494193346,Impaired-Tolerance,Type 1,1,1,90
+43,63.115385757420334,Morbidly-Obese,0,3.9209501273371234,Non-diabetes,0,0,185,58,136,Heart-Healthy,At-Risk,At-Risk,361.82683412863514,Diabetes,Type 1,1,0,91
+73,62.9169769918712,Morbidly-Obese,1,2.6276204027477656,Non-diabetes,0,1,196,49,170,Heart-Healthy,Dangerous,Dangerous,228.32032656542145,Diabetes,Type 1,1,0,92
+51,50.2216627986955,Morbidly-Obese,0,11.291318376078593,Diabetes,0,0,168,65,229,Heart-Healthy,Dangerous,Heart-Healthy,75.36485107155505,Fasting,Type 1,1,0,93
+36,1.00162469029904,Under-weight,1,2.6119186157621432,Non-diabetes,0,0,215,43,62,At-Risk,Heart-Healthy,Dangerous,76.52471124907132,Fasting,None,0,1,94
+10,38.22613383074793,Severely-Obese,1,8.883471492577915,Diabetes,0,0,169,45,81,Heart-Healthy,Heart-Healthy,Dangerous,308.8256810579015,Diabetes,Type 1,1,0,95
+35,2.6835222926528726,Under-weight,1,12.857700323423865,Diabetes,0,0,237,87,194,At-Risk,Dangerous,Heart-Healthy,196.92395941261583,Pre-Diabetes,Type 1,1,1,96
+58,25.85797731863045,Over-weight,0,9.42871155110483,Diabetes,0,1,233,90,111,At-Risk,At-Risk,Heart-Healthy,211.80937992945914,Diabetes,Type 1,1,1,97
+91,14.354757149908382,Under-weight,0,14.936473621825973,Diabetes,0,0,268,76,106,Dangerous,At-Risk,Heart-Healthy,131.67836996742477,Impaired-Tolerance,Type 1,1,1,98
+50,46.33372464278056,Morbidly-Obese,0,3.278091453825403,Non-diabetes,0,0,174,48,199,Heart-Healthy,Dangerous,At-Risk,295.7253947025329,Diabetes,Type 1,1,0,99
