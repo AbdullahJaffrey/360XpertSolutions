@@ -1,5 +1,5 @@
 Hi, There!! 👋
 
-Here, You can access all of the materials I gathered.
+You can find all of the materials I've compiled here.
 
 Try it online: https://github.dev/AbdullahJaffrey/360XpertSolutions
